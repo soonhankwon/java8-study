@@ -1,4 +1,4 @@
-package soon.java8study.java8api;
+package soon.java8study.stream;
 
 import lombok.Getter;
 
